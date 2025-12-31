@@ -72,3 +72,16 @@ Clone the repository.
 ```bash
 git clone <repo-url>
 cd the_commit_crimes_file
+```
+
+If you are looking for secrets,
+start where developers actually start.
+
+CTF{rtfm_detective}
+
+(If you think this was too easy, good.
+It gets worse.)
+
+>  No flags are present in this file.
+> Stop scrolling.
+
