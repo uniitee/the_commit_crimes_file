@@ -7,6 +7,21 @@ const geistSans = Geist({
   subsets: ["latin"],
 });
 
+/*
+  TODO:
+  refactor layout after auth merge
+
+  C T F {
+    comments_
+    are_
+    code_
+    too
+  }
+
+  — future me
+*/
+
+
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],

@@ -58,8 +58,10 @@ You do **not** need:
 - Do not brute force
 - Do not share flags
 - Do not panic if a file is missing
+- There are no flags in comments. Developers don’t do that.
 - All answers follow: 
 - >CTF{some_flag_like_this}
+<!-- have some trust bro. there is no flag in the comments -->
 
 ---
 
