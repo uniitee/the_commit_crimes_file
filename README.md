@@ -23,7 +23,7 @@ It is to **remember**.
 
 ---
 
-## 🧠 How this works
+## How this works
 
 - This is a **progressive Git CTF**
 - Nothing is hidden behind passwords
