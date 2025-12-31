@@ -1,3 +1,11 @@
 export function getMode() {
-  return "etce" + "vitced_" + "gol".split("").reverse().join("");
+  const base = "etcevitced";
+  const tier = "orp";
+  return (
+    base.split("").reverse().join("") +
+    "_" +
+    "gol".split("").reverse().join("") +
+    "_" +
+    tier.split("").reverse().join("")
+  );
 }
