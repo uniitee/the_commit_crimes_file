@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# The Commit Crimes File
 
-## Getting Started
+>This repository is a eulogy written in commits.</br>
+The developer tried to erase their mistakes.</br>
+Git refused. </br>
+Because Nothing Truly Dies in Git.</br>
 
-First, run the development server:
+---
+
+## What is this?
+
+This repository is a **crime scene**.
+
+A developer:
+- committed things they shouldn’t have
+- deleted things they regret
+- rewrote history hoping nobody would notice
+
+They were wrong.
+
+The job, Detective is not to code.  
+It is to **remember**.
+
+---
+
+## 🧠 How this works
+
+- This is a **progressive Git CTF**
+- Nothing is hidden behind passwords
+- Everything is hidden in **plain sight**
+- The answers are buried in:
+  - commit history
+  - deleted files
+  - abandoned branches
+  - forgotten configs
+  - GitHub conversations
+
+Git never forgets. It just waits.
+
+---
+
+## Requirements
+
+- Git
+- A terminal
+- Curiosity
+- Mild trust issues
+
+You do **not** need:
+- prior CTF experience
+- OSINT knowledge
+- advanced programming skills
+
+---
+
+## Rules of the Graveyard
+
+- Do not brute force
+- Do not share flags
+- Do not panic if a file is missing
+- All answers follow: 
+- >CTF{some_flag_like_this}
+
+---
+
+## Where to begin?
+
+Clone the repository.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone <repo-url>
+cd the_commit_crimes_file
